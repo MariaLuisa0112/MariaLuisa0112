@@ -2,7 +2,7 @@
 🌻Quem eu sou?
 
 - 🦕Estudante de Desenvolvimento de Sistema no SENAI-SP
-- 🐌Pronomes: ela/dela  
+
 
 <div>
 <a href="https://github.com/MariaLuisa0112/github-readme-stats">
